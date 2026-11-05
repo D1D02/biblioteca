@@ -1,0 +1,17 @@
+.header_component{
+    width: 100vw;
+    height: 60px;
+    background-color: red;
+    padding: 5px;
+}
+
+.header_intern_div{
+    background-color: wheat;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_intern_child{
+
+}
